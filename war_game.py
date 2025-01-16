@@ -263,7 +263,7 @@ class War_Player:
 
 def main():
 
-    my_game = War_Game(4)
+    my_game = War_Game(2)
     print("Time to play the game!")
     print("First we must do testing!")
     # my_game.deal_cards()
